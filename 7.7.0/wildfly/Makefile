@@ -1,6 +1,6 @@
 # image settings for the docker image name, tags and
 # container name while running
-IMAGE_NAME=camunda/camunda-bpm-platform
+IMAGE_NAME=complion/camunda-bpm-platform
 TAGS=wildfly-7.7.0
 NAME=camunda
 

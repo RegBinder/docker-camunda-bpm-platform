@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:trusty
 
 ENV VERSION 7.7.0
 ENV GROUP wildfly
